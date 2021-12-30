@@ -1,2 +1,2 @@
 # museum
-https://Asya19.github.io/museum/
+https://Asya19.github.io/museum/museum
