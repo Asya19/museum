@@ -1,0 +1,38 @@
+html {
+    background: rgb(156, 154, 154);
+}
+.progress_2::-webkit-slider-thumb {
+    width: 13px;
+    height: 13px;
+}
+.progress_2 {
+    width: 143px;
+    margin-left: 27px;
+    margin-top: 33px;
+    height: 5px;
+}
+
+.progress_2 {
+    background: linear-gradient(to right, #710707 0%, #710707 50%, #fff 50%, #fff 100%);
+    height: 8px;
+    width: 155px;
+    outline: none;
+    transition: background 450ms ease-in;
+    -webkit-appearance: none;
+    margin-top: 39px;
+    margin-left: 50px;
+}
+.progress_2::-webkit-slider-thumb {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    -webkit-appearance: none;
+    cursor: pointer;
+    background: #FFFFFF;
+}
+input {
+    border: none;
+    background: none;
+    outline: none;
+    padding: 0;
+}
